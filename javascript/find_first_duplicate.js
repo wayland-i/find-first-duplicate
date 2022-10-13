@@ -51,3 +51,5 @@ module.exports = findFirstDuplicate;
 //a random array is given as an arguement to a function, the function returns either one of two values:
 //EITHER the first duplicated number is returned
 //OR their are no duplicates return -1
+
+//test test
