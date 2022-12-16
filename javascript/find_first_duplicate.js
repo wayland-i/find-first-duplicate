@@ -52,4 +52,4 @@ module.exports = findFirstDuplicate;
 //EITHER the first duplicated number is returned
 //OR their are no duplicates return -1
 
-//test test
+//test test test test
